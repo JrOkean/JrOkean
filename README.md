@@ -4,7 +4,7 @@
 - 📫 How to reach me: 
      - E-mail: amarelaxx@gmail.com
      - Twitter: [@JrHanyou]()
-     - Linkedin: (Joana dos Santos Raposo)[www.linkedin.com/in/joana-dos-santos-raposo-2524141bb]
+     - Linkedin: [Joana dos Santos Raposo](https://www.linkedin.com/in/joana-dos-santos-raposo-2524141bb)
 
 <!---
 JrOkean/JrOkean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
