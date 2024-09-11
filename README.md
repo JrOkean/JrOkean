@@ -5,6 +5,7 @@
      - E-mail: amarelaxx@gmail.com
      - Twitter: [@JrHanyou]()
      - Linkedin: [Joana dos Santos Raposo](https://www.linkedin.com/in/joana-dos-santos-raposo-2524141bb)
+     - [Ko-fi](https://ko-fi.com/jrhanyou)
 
 <!---
 JrOkean/JrOkean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
