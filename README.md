@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jrokean&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jrokean&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -48,6 +48,7 @@
 
 ###
 --->
+
 - 👋 Hi, I’m @JrOkean
 - 👀 I’m interested in embbeded system, IoT, Go programming, graphics, image processing, designs, lores and games
 - 🌱 I’m currently learning in a CC degree in UFS
@@ -55,6 +56,7 @@
      - E-mail: amarelaxx@gmail.com
      - Linkedin: [Joana dos Santos Raposo](https://www.linkedin.com/in/joana-dos-santos-raposo-2524141bb)
      - [Ko-fi](https://ko-fi.com/jrhanyou)
+ - This place is no clean at all, but I'm trying to fix that. Welcome!
 
 <!---
 JrOkean/JrOkean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
